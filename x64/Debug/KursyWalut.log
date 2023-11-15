@@ -1,0 +1,5 @@
+﻿  KursyWalut.cpp
+C:\Users\Szymon\Desktop\KursyWalut\KursyWalut.cpp(154,75): warning C4267: "argument": konwersja z "size_t" do "const int", możliwa utrata danych
+C:\Users\Szymon\Desktop\KursyWalut\KursyWalut.cpp(154,53): warning C4267: "argument": konwersja z "size_t" do "const int", możliwa utrata danych
+C:\Users\Szymon\Desktop\KursyWalut\KursyWalut.cpp(160,52): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+  KursyWalut.vcxproj -> C:\Users\Szymon\Desktop\KursyWalut\x64\Debug\KursyWalut.exe
